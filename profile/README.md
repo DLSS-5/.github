@@ -1,18 +1,19 @@
 ## DLSS 5 Toolbox — Easy DLSS 5 Installation for Games and Emulators
 
 <p align="center">
-  <a href="https://DLSS-5.github.io/.github">
-    <img src="https://img.shields.io/badge/GET%20DLSS%205%20NOW-00C853?style=for-the-badge&logo=nvidia&logoColor=white" alt="GET DLSS 5 NOW">
-  </a>
+  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/GET%20DLSS%205%20NOW-00C853?style=for-the-badge&logo=nvidia&logoColor=white" alt="GET DLSS 5 NOW"></a>
+  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/DLSS5--FEEDER-EXPERIMENTAL-8b5cf6?style=for-the-badge" alt="DLSS5 Feeder Experimental"></a>
 </p>
 
 <p align="center">
-  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/DX9--12-SUPPORTED-555?style=flat-square" alt="DirectX 9-12"></a>
-  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/VULKAN-SUPPORTED-555?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan"></a>
-  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/OPENGL-SUPPORTED-555?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL"></a>
-  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/EMULATORS-SUPPORTED-555?style=flat-square" alt="Emulators"></a>
+  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/DIRECTX%209--12-✓-2ea44f?style=flat-square" alt="DirectX 9-12 Supported"></a>
+  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/VULKAN-✓-2ea44f?style=flat-square" alt="Vulkan Supported"></a>
+  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/OPENGL-✓-2ea44f?style=flat-square" alt="OpenGL Supported"></a>
+  <a href="https://DLSS-5.github.io/.github"><img src="https://img.shields.io/badge/EMULATORS-✓-2ea44f?style=flat-square" alt="Emulators Supported"></a>
 </p>
-<div align="center">
+
+
+
 
 <table>
 <tr>
